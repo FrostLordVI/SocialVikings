@@ -1,0 +1,16 @@
+@media screen and (max-width:1200px){
+    header{
+        margin-bottom: 100px;
+    }
+}
+
+@media screen and (max-width:650px){
+    header{
+        nav{
+            display: none;
+        }
+        button{
+            display: none;
+        }
+    }
+}

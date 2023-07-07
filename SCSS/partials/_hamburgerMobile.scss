@@ -1,0 +1,18 @@
+@media screen and (max-width:650px){
+    .hamburger{
+        display: flex;
+
+    }
+    .hamburger.show{
+        display: flex;
+
+        .hamburger__item2{
+            width: 100%;
+        }
+    
+        .hamburger__item3{
+            width: 100%;
+        }
+
+    }
+}
